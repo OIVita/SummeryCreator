@@ -1,0 +1,14 @@
+[
+    {"titolo": "Introduzione alla scrittura del codice PHP", "pagina": 3},
+    {"titolo": "Gli strumenti di base per il coding PHP", "pagina": 8},
+    {"titolo": "Errori comuni e come evitarli", "pagina": 15},
+    {"titolo": "Ottimizzazione del codice per le prestazioni", "pagina": 65},
+    {"titolo": "Utilizzo avanzato delle funzioni PHP", "pagina": 115},
+    {"titolo": "Gestione degli utenti e delle sessioni", "pagina": 125},
+    {"titolo": "Sicurezza nel codice PHP", "pagina": 135},
+    {"titolo": "Approfondimenti sulla gestione delle eccezioni", "pagina": 155},
+    {"titolo": "Interfacciamento con database MySQL tramite PHP", "pagina": 215},
+    {"titolo": "Utilizzo delle librerie esterne nel codice PHP", "pagina": 225},
+    {"titolo": "Scripting avanzato e soluzioni pratiche", "pagina": 315}
+]
+
